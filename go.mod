@@ -1,4 +1,4 @@
-module github.com/swaggest/swgui
+module github.com/brianrusso/swgui
 
 go 1.17
 
